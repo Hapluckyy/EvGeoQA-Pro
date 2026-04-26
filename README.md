@@ -6,9 +6,8 @@
 
 **EvGeoQA-Pro** is a comprehensive, multi-modal **Geo-Spatial Question Answering (GSQA) benchmark** designed to evaluate the reasoning and purpose-driven exploration capabilities of Foundation Models (LLMs and VLMs) within dynamic, real-world environments.
 
-While existing GSQA benchmarks predominantly focus on static uni-modal text retrieval, real-world spatial planning is complex and multi-objective. EvGeoQA-Pro bridges this gap by introducing a distinct **location-anchored** and **dual-objective** design built upon Electric Vehicle (EV) charging scenarios. 
 
-To systematically assess foundation models, the benchmark establishes a comprehensive evaluation paradigm across **three distinct modalities**:
+The benchmark establishes a comprehensive evaluation paradigm across **three distinct modalities**:
 1. **Textual Context Reasoning:** Assesses factual discrimination and information synthesis within a self-contained localized text context.
 2. **Multi-modal Visual-Textual Reasoning:** Evaluates the integration of heterogeneous information, requiring Vision-Language Models (VLMs) to synthesize map imagery with textual metadata.
 3. **Autonomous Tool-use Agentic Reasoning:** Challenges models to interactively explore unknown geo-spatial spaces using tools over long-range contexts.
