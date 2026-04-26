@@ -1,6 +1,6 @@
 # EvGeoQA-Pro: Evaluating Textual, Visual, and Agentic Geo-Spatial Reasoning in Foundation Models
 
-> ⚠️ **Notice:** This paper is currently under peer review. The complete dataset, full multi-modal evaluation sets, sandbox environments, and source code will be fully open-sourced upon acceptance. Currently, we provide dataset samples and framework details for reference.
+> ⚠️ **Notice:** This paper is currently under peer review. The complete dataset, full multi-modal evaluation sets, sandbox environments, and source code will be fully open-sourced upon acceptance. **Currently, we provide dataset samples and framework details for reference.**
 
 ## Introduction
 
