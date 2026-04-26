@@ -17,10 +17,9 @@ The benchmark establishes a comprehensive evaluation paradigm across **three dis
 We will host the full datasets and evaluation environments on Hugging Face. 
 
 * 🤗 **[EvGeoQA-Pro Full QA Datasets (Link Pending Acceptance)](#)**
-*
-* * 🤗 **[EvGeoQA-Pro Sandbox Environments (Link Pending Acceptance)](#)**
-  *
-  * *Note: Links will be activated once the paper is officially accepted.*
+
+* 🤗 **[EvGeoQA-Pro Sandbox Environments (Link Pending Acceptance)](#)**
+* *Note: Links will be activated once the paper is officially accepted.*
 
 ## Evaluation Modalities & Examples
 
