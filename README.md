@@ -12,14 +12,7 @@ The benchmark establishes a comprehensive evaluation paradigm across **three dis
 2. **Multi-modal Visual-Textual Reasoning:** Evaluates the integration of heterogeneous information, requiring Vision-Language Models (VLMs) to synthesize map imagery with textual metadata.
 3. **Autonomous Tool-use Agentic Reasoning:** Challenges models to interactively explore unknown geo-spatial spaces using tools over long-range contexts.
 
-## Dataset Availability (Hugging Face)
 
-We will host the full datasets and evaluation environments on Hugging Face. 
-
-* 🤗 **[EvGeoQA-Pro Full QA Datasets (Link Pending Acceptance)](#)**
-
-* 🤗 **[EvGeoQA-Pro Sandbox Environments (Link Pending Acceptance)](#)**
-* *Note: Links will be activated once the paper is officially accepted.*
 
 ## Evaluation Modalities & Examples
 
@@ -30,3 +23,13 @@ We have provided detailed examples for each of the three reasoning modalities ev
 - 🤖 **[Autonomous Tool-use Agentic Reasoning Example](./examples/agentic_example.md)**
 
 *(Note: The above paths have been reserved. Detailed examples will be uploaded to these directories shortly.)*
+
+
+## Dataset Availability (Hugging Face)
+
+We will host the full datasets and evaluation environments on Hugging Face. 
+
+* 🤗 **[EvGeoQA-Pro Full QA Datasets (Link Pending Acceptance)](#)**
+
+* 🤗 **[EvGeoQA-Pro Sandbox Environments (Link Pending Acceptance)](#)**
+* *Note: Links will be activated once the paper is officially accepted.*
