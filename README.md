@@ -18,9 +18,9 @@ The benchmark establishes a comprehensive evaluation paradigm across **three dis
 
 We have provided detailed examples for each of the three reasoning modalities evaluated in EvGeoQA-Pro. Please refer to the specific paths below:
 
-- 📝 **[Textual Context Reasoning Example](./examples/textual_example.md)**
-- 🗺️ **[Multi-modal Visual-Textual Reasoning Example](./examples/visual_example.md)**
-- 🤖 **[Autonomous Tool-use Agentic Reasoning Example](./examples/agentic_example.md)**
+- 📝 **[Textual Context Reasoning Example](./EvGeoQA_Pro_Examples/Textual/)**
+- 🗺️ **[Multi-modal Visual-Textual Reasoning Example](./EvGeoQA_Pro_Examples/Visual/)**
+- 🤖 **[Autonomous Tool-use Agentic Reasoning Example](./EvGeoQA_Pro_Examples/Agentic/)**
 
 *(Note: The above paths have been reserved. Detailed examples will be uploaded to these directories shortly.)*
 
