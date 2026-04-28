@@ -22,7 +22,6 @@ We have provided detailed examples for each of the three reasoning modalities ev
 - 🗺️ **[Multi-modal Visual-Textual Reasoning Example](./EvGeoQA_Pro_Examples/Visual/)**
 - 🤖 **[Autonomous Tool-use Agentic Reasoning Example](./EvGeoQA_Pro_Examples/Agentic/)**
 
-*(Note: The above paths have been reserved. Detailed examples will be uploaded to these directories shortly.)*
 
 
 ## Dataset Availability (Hugging Face)
